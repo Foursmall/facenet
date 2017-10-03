@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/lipreading/facenet/models/facenet/20171002-195931/model-20171002-195931.ckpt-80000"
+all_model_checkpoint_paths: "/home/lipreading/facenet/models/facenet/20171002-195931/model-20171002-195931.ckpt-78000"
+all_model_checkpoint_paths: "/home/lipreading/facenet/models/facenet/20171002-195931/model-20171002-195931.ckpt-79000"
+all_model_checkpoint_paths: "/home/lipreading/facenet/models/facenet/20171002-195931/model-20171002-195931.ckpt-80000"
